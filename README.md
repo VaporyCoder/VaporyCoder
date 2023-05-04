@@ -15,4 +15,5 @@ ________________________________________________________________________________
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bigeyejon777&width=400)
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-[![VaporyCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaporycoder&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![VaporyCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
