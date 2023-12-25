@@ -11,7 +11,5 @@ ________________________________________________________________________________
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F70000&width=450&lines=idk+why+you+are+here;pls+just+leave+me+be;i+cant+take+it+anymore;youre+making+me+anxious;pls+leave+pls+leave;why+are+you+still+here;my+thoughts+alone+are+too+much;PLS+L3AV3+N0W)](https://git.io/typing-svg)
 _________________________________________________________________________________________________________________________________________________________________________
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/bigeyejon777)
-________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 [![VaporyCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
